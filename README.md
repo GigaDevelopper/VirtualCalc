@@ -34,7 +34,7 @@ You can run the calculator using the following command:
 
 ```bash
 python calculator.py
-
+```
 ### Explanation:
 [![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://github.com/GigaDevelopper/VirtualCalc/blob/main/virtual_calculator.mp4))
 
