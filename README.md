@@ -34,3 +34,32 @@ You can run the calculator using the following command:
 
 ```bash
 python calculator.py
+
+### Explanation:
+[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://github.com/GigaDevelopper/VirtualCalc/blob/main/virtual_calculator.mp4))
+
+## FUTURE
+- `sqrt(x)`: Square root of x
+- `sin(x)`: Sine of x (x in radians)
+- `cos(x)`: Cosine of x (x in radians)
+- `tan(x)`: Tangent of x (x in radians)
+- `pi`: The value of π
+- `e`: The value of Euler's number
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to the project, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch for your feature or bug fix
+3. Commit your changes
+4. Push the branch to your fork
+5. Create a pull request
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to open an issue or contact me directly at aziktuit@gmail.com.
