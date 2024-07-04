@@ -36,7 +36,7 @@ You can run the calculator using the following command:
 python calculator.py
 ```
 ### Explanation:
-[!](https://github.com/GigaDevelopper/VirtualCalc/blob/main/virtual_calculator.gif)
+![DEMO](https://github.com/GigaDevelopper/VirtualCalc/blob/main/virtual_calculator.gif)
 
 ## FUTURE
 - `sqrt(x)`: Square root of x
